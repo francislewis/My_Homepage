@@ -18,8 +18,10 @@ ul.border {
 ul {
   display: block;
   width: 25%;
-  margin-top: 15% auto;
+  margin-top: 15% ;
   margin-bottom: 10%;
+  margin-left: auto;
+  margin-right:auto;
   padding: 0;
   list-style: none;
 }
