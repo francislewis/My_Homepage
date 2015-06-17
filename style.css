@@ -97,3 +97,8 @@ ul.subMenu {
     border:1px solid #C6C6C6;
   border-bottom:3px solid #C6C6C6;
 }
+
+#time {
+font-family: 'Roboto', sans-serif;
+color :#d64937;  
+}
